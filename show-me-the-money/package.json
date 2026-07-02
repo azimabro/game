@@ -1,0 +1,46 @@
+{
+  "name": "@orrisai/show-me-the-money",
+  "version": "2.5.1",
+  "description": "AI agent skills that build and run your business autonomously — from idea to revenue, 24/7. Works with Claude Code, Codex CLI, and Gemini CLI.",
+  "keywords": [
+    "ai-agent",
+    "agent-skills",
+    "claude-code",
+    "claude-code-skills",
+    "codex",
+    "gemini-cli",
+    "autonomous-agent",
+    "business-automation",
+    "startup",
+    "revenue",
+    "solopreneur",
+    "indie-hacker",
+    "saas",
+    "marketing-automation",
+    "seo",
+    "growth-hacking",
+    "skills"
+  ],
+  "author": "iamzifei",
+  "license": "CC-BY-NC-4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamzifei/show-me-the-money.git"
+  },
+  "homepage": "https://github.com/iamzifei/show-me-the-money",
+  "bugs": {
+    "url": "https://github.com/iamzifei/show-me-the-money/issues"
+  },
+  "bin": {
+    "show-me-the-money": "./bin/cli.js"
+  },
+  "files": [
+    "skills/",
+    "bin/",
+    "install.js",
+    "VERSION"
+  ],
+  "scripts": {
+    "postinstall": "node install.js"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "defaultMode": "dontAsk",
+    "allow": [
+      "WebSearch",
+      "Bash(git clone *)",
+      "Bash(npm config *)",
+      "WebFetch(domain:github.com)",
+      "Bash(npm pack *)",
+      "Bash(mkdir -p show-me-the-money)",
+      "Bash(tar -xzf orrisai-show-me-the-money-2.5.1.tgz -C show-me-the-money --strip-components=1)",
+      "Bash(rm orrisai-show-me-the-money-2.5.1.tgz)",
+      "Bash(node install.js)",
+      "Bash(echo \"h:\\\\\\\\游戏攻略网站\")",
+      "Bash(sed 's/.*\\\\\\\\//')",
+      "Bash(sed 's/[^a-z0-9-]//g')",
+      "Read(//c/Users/111/.smtm/**)",
+      "Bash(mkdir -p 'C:\\\\Users\\\\111/.smtm/analytics')",
+      "Bash(echo '{\"skill\":\"money-discover\",\"ts\":\"2026-06-29T23:50:00+08:00\",\"slug\":\"game-guide\",\"outcome\":\"started\"}')",
+      "Bash(ls \"$HOME/.claude/skills/money/knowledge/atoms/atoms_market_observation.jsonl\" \"$HOME/.claude/skills/money/knowledge/atoms/atoms_growth_tactics.jsonl\" 2>&1)",
+      "Read(//c/Users/111/.claude/skills/money/knowledge/atoms/**)",
+      "Bash(python3 -c \"from datetime import datetime; print\\(datetime.now\\(\\).astimezone\\(\\).isoformat\\(timespec='seconds'\\)\\)\")",
+      "Bash(python -c \"from datetime import datetime; print\\(datetime.now\\(\\).astimezone\\(\\).isoformat\\(timespec='seconds'\\)\\)\")",
+      "Bash(mkdir -p \"$HOME/.smtm/sessions/game-guide\")",
+      "Bash(echo '{\"skill\":\"money-discover\",\"ts\":\"2026-06-30T00:14:45+08:00\",\"slug\":\"game-guide\",\"outcome\":\"completed\"}')",
+      "Bash(echo '{\"skill\":\"money-save\",\"ts\":\"2026-06-30T00:14:45+08:00\",\"slug\":\"game-guide\",\"outcome\":\"completed\"}')",
+      "Bash(echo '{\"skill\":\"money-strategy\",\"ts\":\"2026-06-30T00:16:00+08:00\",\"slug\":\"game-guide\",\"outcome\":\"started\"}' >> \"$HOME/.smtm/analytics/skill-usage.jsonl\" && cat \"$HOME/.smtm/projects/game-guide/profile.json\")",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir=false --import-alias=\"@/*\" --use-npm --no-turbopack)",
+      "Bash(npm install *)",
+      "Bash(npx next *)",
+      "Bash(node -e \"console.log\\(new Date\\(\\).toISOString\\(\\).replace\\(/\\(\\\\d{2}\\)Z$/, \\(_, s\\) => { const tz = -new Date\\(\\).getTimezoneOffset\\(\\); const h = Math.floor\\(Math.abs\\(tz\\)/60\\).toString\\(\\).padStart\\(2,'0'\\); const m = \\(Math.abs\\(tz\\)%60\\).toString\\(\\).padStart\\(2,'0'\\); return tz >= 0 ? '+' + h + ':' + m : '-' + h + ':' + m; }\\)\\)\")",
+      "Bash(npx serve *)",
+      "Bash(sleep 3 && cat /c/Users/111/AppData/Local/Temp/claude/h--------/6c2a93ee-b330-42af-97dc-566dd24d914f/tasks/bj5u1ytmv.output)",
+      "Read(//c/Users/111/AppData/Local/Temp/claude/h--------/6c2a93ee-b330-42af-97dc-566dd24d914f/tasks/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\111\\.smtm\\sessions",
+      "C:\\Users\\111\\.smtm\\analytics"
+    ]
+  }
+}
