@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
@@ -8,6 +9,30 @@ import { GTA6_CATEGORIES, GTA6_ARTICLES, GuideCategory } from "@/lib/content";
 
 export function generateStaticParams() {
   return GTA6_CATEGORIES.map((cat) => ({ category: cat.slug }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ category: string }>;
+}): Promise<Metadata> {
+  const { category: slug } = await params;
+  const cat = GTA6_CATEGORIES.find((c) => c.slug === slug);
+  if (!cat) return { title: "Category Not Found" };
+
+  const url = `https://kamekong.com/gta6/${slug}`;
+  return {
+    title: `${cat.title} — GTA VI Guide | Game Guide Hub`,
+    description: cat.description,
+    alternates: { canonical: url },
+    openGraph: {
+      title: `${cat.title} — GTA VI Guide`,
+      description: cat.description,
+      url,
+      type: "website",
+      siteName: "Game Guide Hub",
+    },
+  };
 }
 
 export default async function CategoryPage({
