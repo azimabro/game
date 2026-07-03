@@ -2465,4 +2465,930 @@ GTA V有两个交易所。GTA VI可能延续：
 
 *最后更新：2026年6月30日。基于GTA V股票市场机制。GTA VI系统可能有所不同。*`,
   },
+
+  // NEW ARTICLES — Batch 3 (Jul 2026)
+  {
+    slug: "gta6-hidden-packages",
+    category: "collectibles",
+    title: "GTA VI Hidden Packages — All Locations & Rewards",
+    titleZh: "GTA VI 隐藏包裹 — 全位置与奖励",
+    excerpt: "Every hidden package location across Vice City and beyond.",
+    excerptZh: "罪城及周边所有隐藏包裹位置全收录。",
+    contentEn: `# GTA VI Hidden Packages — All Locations & Rewards
+
+## What Are Hidden Packages?
+
+Hidden packages are collectible items scattered across Vice City. Each one you find brings you closer to 100% completion and unlocks unique rewards.
+
+## Rewards
+
+| Packages Found | Reward |
+|---|---|
+| 10 | Weapon spawn at safehouse |
+| 20 | Body armor delivery |
+| 30 | Free weapons delivery |
+| 50 | Hunter helicopter spawn |
+| 70 | Rhino tank spawn |
+| 100 | Infinite ammo + Achievement |
+
+## Vice City Locations
+
+### Downtown Vice City (15 packages)
+
+1. **Roof of the VCN Building** — Use helicopter or fire escape on the east side
+2. **Behind the Malibu Club** — In the dumpster in the back alley
+3. **Ocean View Hotel balcony** — Accessible from the stairs on the south side
+4. **Washington Beach lifeguard tower** — On the roof
+5. **Inside North Point Mall** — Behind the fountain on the ground floor
+6. **Leaf Links golf course** — Under the bridge on hole 7
+7. **Escobar International Airport** — Inside the control tower, top floor
+8. **Viceport docks** — On top of the blue shipping container stack
+9. **Hyman Memorial Stadium** — Under the bleachers, west side
+10. **Downtown fire station** — Behind the truck on the second floor
+11. **Phil's Place** — Inside the trailer, under the bed
+12. **Sunshine Autos** — In the showroom, behind the counter
+13. **Ammu-Nation downtown** — On the roof, access via adjacent building
+14. **Pole Position Club** — Inside a private booth, back room
+15. **Print Works** — Behind the printing press on the mezzanine level
+
+### Vice Beach (10 packages)
+
+16. **Beach pier** — At the end of the pier, under the dock boards
+17. **Lighthouse base** — Inside the locked room (ram the door)
+18. **Starfish Island mansion** — In the pool house
+19. **Beachside helipad** — Under the helipad platform
+20. **Washington Mall rooftop** — Parachute from a helicopter
+21. **Ocean Drive hotel pool** — Bottom of the drained pool
+22. **South Beach basketball court** — Behind the bleachers
+23. **Marina dock** — On the wooden walkway between boats
+24. **Coast guard station** — Inside the main building
+25. **Beach art installation** — Under the whale tail statue
+
+### Little Havana & Little Haiti (8 packages)
+
+26. **Café Robina** — Behind the counter, near the coffee machine
+27. **Haitian drug factory** — On the catwalk above the main floor
+28. **El Banco Corrupto Grande** — Inside the vault (need explosives)
+29. **Little Havana bakery** — In the back alley dumpster
+30. **Street warden station** — On the roof
+31. **Cherry Popper ice cream factory** — In the freezer room
+32. **Kaufman Cabs depot** — In the dispatch office
+33. **Dirt track arena** — Under the commentator's booth
+
+---
+
+## Collection Tips
+
+- Use a helicopter for rooftop packages
+- Listen for the *chime* sound when near a package
+- Packages glow faintly at night — easier to spot
+- Track your progress in the pause menu → Collectibles
+- Use the in-game camera to snap hard-to-reach packages for reference
+`,
+    contentZh: `# GTA VI 隐藏包裹 — 全位置与奖励
+
+## 什么是隐藏包裹？
+
+隐藏包裹是散布在罪城各处的收集品。找到每一个将带你靠近100%完成度，并解锁独特奖励。
+
+## 奖励
+
+| 找到数量 | 奖励 |
+|---|---|
+| 10 | 安全屋武器生成 |
+| 20 | 防弹衣配送 |
+| 30 | 免费武器配送 |
+| 50 | 猎人直升机生成 |
+| 70 | 犀牛坦克生成 |
+| 100 | 无限弹药 + 成就 |
+
+## 罪城位置
+
+### 罪城市中心（15个）
+
+1-15号收集位置覆盖VCN大厦、马里布俱乐部、海景酒店、华盛顿海滩、北角购物中心、叶子林高尔夫球场、机场、港口、体育馆、消防站、Phil's Place、阳光车行、市中心武器店、钢管舞俱乐部、印刷厂等区域。
+
+## 收集技巧
+
+- **用直升机**获取屋顶包裹
+- 靠近包裹时会有**叮咚**音效提示
+- 包裹在夜间微弱发光，更容易发现
+- 在暂停菜单 → 收集品中追踪进度
+- 用游戏内相机拍摄难以到达的包裹作为参考
+
+*靠近包裹时留意提示音。先收集地面包裹，屋顶的最后用直升机清理。*`,
+  },
+  {
+    slug: "gta6-stunt-jumps",
+    category: "collectibles",
+    title: "GTA VI Stunt Jumps — Complete Locations Guide",
+    titleZh: "GTA VI 特技跳跃 — 全位置攻略",
+    excerpt: "All unique stunt jump locations for 100% completion.",
+    excerptZh: "完成100%所需的所有独特特技跳跃位置。",
+    contentEn: `# GTA VI Stunt Jumps — Complete Locations Guide
+
+## What Are Unique Stunt Jumps?
+
+Unique Stunt Jumps (USJs) are special marked jumps that require you to land in a specific zone. Each successful jump shows a **"Stunt Jump Completed"** message in slow motion. There are 36 total USJs needed for 100% completion.
+
+---
+
+## Vehicle Recommendations
+
+| Vehicle Type | Best For | Top Pick |
+|---|---|---|
+| Sports Bike | Tight landings | PCJ-600 |
+| Sports Car | Long jumps | Infernus |
+| SUV | Rough landings | Landstalker |
+| Dirt Bike | Off-road jumps | Sanchez |
+
+**Pro tip:** The PCJ-600 is the overall best — fast, light, and maneuverable in air.
+
+---
+
+## Vice City USJ Locations
+
+### Downtown (8 jumps)
+1. **VCN Helipad ramp** — Launch off the roof helipad toward the mainland
+2. **Hyman Stadium stairs** — Speed up the stairs from south entrance
+3. **Mall parking garage** — Top floor, jump over the gap to adjacent building
+4. **Escobar Airport runway ramp** — The maintenance ramp near hangar 3
+5. **Port bridge to nowhere** — Unfinished bridge section, east port
+6. **Downtown construction site** — Plank ramp on the 5th floor
+7. **Police station parking** — Jump from the upper lot over the fence
+8. **Leaf Links cliff** — Natural ramp on hole 3 over the water hazard
+
+### Vice Beach (6 jumps)
+9. **Beach pier ramp** — The broken section at the pier's end
+10. **Lighthouse cliff** — Natural ramp over the lighthouse path
+11. **Ocean Drive hotel entrance** — Jump the front steps at speed
+12. **Starfish Island bridge** — Jump the gap where the bridge is raised
+13. **Marina boat ramp** — Use the boat launch ramp to jump the canal
+14. **Coastal road billboard** — Jump through the billboard on the cliff road
+
+### Little Havana (5 jumps)
+15-19 locations throughout Little Havana, including the Cuban café stairs, dirt track, and bank plaza gaps.
+
+### Vice Point & North Beach (6 jumps)
+20-25 locations in the northern beach areas, including mall rooftop, condo construction, and pier jumps.
+
+### Swamp & Everglades (5 jumps)
+26-30 natural ramps across the swamp region, using dirt bikes for mud and hill jumps.
+
+### Rural/Inland (6 jumps)
+31-36 jumps spread across farmland, factory districts, and rural highway sections.
+
+---
+
+## Success Checklist
+- [ ] Land in the marked landing zone (shown briefly on minimap)
+- [ ] Stay on your vehicle — no ejection mid-air
+- [ ] Don't hit obstacles during the jump
+- [ ] Complete jumps at night for less traffic
+`,
+    contentZh: `# GTA VI 特技跳跃 — 全位置攻略
+
+## 什么是独特特技跳跃？
+
+独特特技跳跃（USJ）是特殊的标记跳跃，需要你降落在指定区域。每次成功跳跃都会以慢动作显示**"特技跳跃完成"**。共36个USJ是100%完成的必要条件。
+
+## 载具推荐
+
+| 类型 | 最适合 | 首选 |
+|---|---|---|
+| 运动摩托 | 窄着陆点 | PCJ-600 |
+| 跑车 | 远距离跳跃 | 地狱火 |
+| SUV | 硬着陆 | 陆行者 |
+| 越野摩托 | 越野跳跃 | Sanchez |
+
+## 跳跃技巧
+
+- **PCJ-600是最全面的选择** — 速度快、轻便、空中可控
+- 保持速度：大多数跳跃需要全速
+- 空中控制：轻推左摇杆调整姿态
+- 在坡道底部开始加速，不要在中途
+- 保持车辆着陆——弹射 = 失败
+
+---
+
+*建议夜间尝试，交通流量更少，着陆区更容易看清。*`,
+  },
+  {
+    slug: "gta6-best-racing-cars",
+    category: "vehicles",
+    title: "GTA VI Best Racing Cars — Top Speed, Acceleration & Handling",
+    titleZh: "GTA VI 最佳竞速车 — 极速、加速与操控排行",
+    excerpt: "Complete racing car tier list with stats, prices, and spawn locations.",
+    excerptZh: "竞速车性能排名、价格与获取位置全攻略。",
+    contentEn: `# GTA VI Best Racing Cars — Complete Tier List
+
+## S-Tier (Best in Class)
+
+### 1. Pegassi Infernus
+- **Top Speed:** ★★★★★ (210 mph / 338 km/h)
+- **Acceleration:** ★★★★★
+- **Handling:** ★★★★☆
+- **Price:** $1,200,000 (Legendary Motorsport)
+
+The undisputed racing king. Mid-engine layout gives it perfect balance through corners. Slight oversteer is manageable with practice. Worth every dollar.
+
+### 2. Grotti Turismo
+- **Top Speed:** ★★★★☆ (205 mph)
+- **Acceleration:** ★★★★★
+- **Handling:** ★★★★★
+- **Price:** $950,000
+
+Better handling than the Infernus but slightly slower top speed. Best for technical tracks with lots of turns. The AWD system gives incredible grip.
+
+---
+
+## A-Tier (Excellent)
+
+### 3. Pfister Comet
+- **Top Speed:** ★★★★☆ (198 mph)
+- **Acceleration:** ★★★★☆
+- **Handling:** ★★★★☆
+- **Price:** $750,000
+
+Porsche-inspired rear-engine classic. Loves to slide — perfect for drifters. Rear weight bias means careful throttle control needed on exit.
+
+### 4. Bravado Banshee
+- **Top Speed:** ★★★★☆ (200 mph)
+- **Acceleration:** ★★★★☆
+- **Handling:** ★★★☆☆
+- **Price:** $620,000
+
+Pure American muscle. Incredible straight-line speed but heavy through corners. Upgrade the suspension first.
+
+---
+
+## B-Tier (Good)
+
+### 5. Annis Elegy RH8
+- **Top Speed:** ★★★☆☆ (190 mph)
+- **Handling:** ★★★★★
+- **Price:** $380,000
+
+The best budget racer. Phenomenal handling at a fraction of S-tier prices. Upgrade engine and turbo to compete with top cars.
+
+### 6. Karin Sultan RS
+- **Top Speed:** ★★★☆☆ (185 mph)
+- **Handling:** ★★★★☆
+- **Price:** $420,000
+
+AWD rally-bred sedan. Excellent in rain and on loose surfaces. The sleeper pick — looks ordinary, drives like a dream.
+
+---
+
+## Free/Spawn Locations
+
+| Car | Where to Find |
+|---|---|
+| Infernus | Starfish Island driveways, nightclub parking |
+| Turismo | Downtown luxury dealership, CEO NPCs |
+| Comet | Rockford Hills parking, country club |
+| Banshee | Street racer NPCs, used car market |
+| Elegy RH8 | FREE — sign up on the in-game car website |
+| Sultan RS | Sandy Shores garage, tuner meet spots |
+
+---
+
+## Racing Upgrade Priority
+1. **Engine (Stage 4)** — Most HP per dollar
+2. **Turbo** — Massive acceleration gain
+3. **Transmission** — Faster shifts = less time between gears
+4. **Suspension** — Lower center of gravity
+5. **Brakes** — Only needed for technical tracks
+`,
+    contentZh: `# GTA VI 最佳竞速车 — 完整排行榜
+
+## S级（同级最强）
+
+### 1. 佩加西 地狱火
+最速之王。中置引擎在弯道中完美平衡，轻微的转向过度可以通过练习掌控。物有所值。
+
+### 2. 格罗帝 Turismo
+操控比地狱火更好，但极速略低。最适合多弯的技术赛道。AWD系统抓地力极强。
+
+## A级（优秀）
+
+### 3. 菲斯特 彗星
+保时捷风格的后置引擎经典。喜欢漂移——漂移党首选。后置重量意味着出弯需要精细油门控制。
+
+### 4. 布拉瓦多 Banshee
+纯美式肌肉。直线速度惊人但过弯笨重。先升级悬挂。
+
+## 免费/刷新位置
+
+| 车 | 位置 |
+|---|---|
+| 地狱火 | 星鱼岛车道、夜店停车场 |
+| Turismo | 市中心豪车经销店、CEO NPC |
+| 彗星 | 洛克福德山停车场、乡村俱乐部 |
+| Banshee | 街头赛车NPC、二手车市场 |
+| Elegy RH8 | 免费——在游戏内汽车网站注册 |
+| Sultan RS | 沙地海岸车库、改装车聚会点 |
+
+---
+
+*先升级引擎和涡轮，这是每块钱带来最多性能提升的改装。*`,
+  },
+  {
+    slug: "gta6-aircraft-guide",
+    category: "vehicles",
+    title: "GTA VI Aircraft Guide — Planes, Helicopters & VTOL Locations",
+    titleZh: "GTA VI 飞行器指南 — 飞机、直升机与垂直起降",
+    excerpt: "Every aircraft in the game with spawn locations and flying tips.",
+    excerptZh: "全飞行器位置、飞行技巧一览。",
+    contentEn: `# GTA VI Aircraft Guide — All Planes, Helicopters & VTOLs
+
+## Helicopters
+
+### Buzzard Attack Chopper
+- **Speed:** ★★★★☆
+- **Weapons:** Miniguns + Homing Missiles
+- **Spawn:** Police helipads, army base, $1.8M purchase
+- **Best for:** Missions, combat, fast travel
+
+The Buzzard is the workhorse helicopter. Twin miniguns shred infantry and unarmored vehicles. Homing missiles lock onto any target. Spawns at your helipad after purchase.
+
+### Maverick (Civilian)
+- **Speed:** ★★★☆☆
+- **Weapons:** None
+- **Spawn:** Hospital rooftops, beach helipads, news stations
+- **Best for:** Sightseeing, early-game transport
+
+Free to grab from hospital roofs. Slow but reliable. No weapons means you'll want to upgrade to a Buzzard ASAP.
+
+### Sea Sparrow
+- **Speed:** ★★★☆☆
+- **Weapons:** Front-facing machine gun
+- **Spawn:** Marina docks, waterfront helipads
+- **Best for:** Water landings, island hopping
+
+The only helicopter with pontoons — can land on water. Essential for collecting ocean packages.
+
+### Cargobob
+- **Speed:** ★★☆☆☆
+- **Weapons:** None
+- **Special:** Magnetic hook for vehicle transport
+- **Spawn:** Military base, industrial port
+
+Slow, unarmed, but the magnetic hook is unique. Lift cars, delivery vehicles, even tanks. Critical for vehicle export missions.
+
+---
+
+## Planes
+
+### Luxor (Private Jet)
+- **Speed:** ★★★★☆
+- **Passengers:** 8
+- **Price:** $10,000,000 (luxury purchase website)
+- **Spawn:** Airport private hangars
+
+The ultimate status symbol. Fast, comfortable, and a champagne interior. Not weaponized but makes a statement.
+
+### Velum (Prop Plane)
+- **Speed:** ★★☆☆☆
+- **Passengers:** 4
+- **Spawn:** Small airfields, dirt strips
+- **Best for:** Low-and-slow sightseeing, smuggling missions
+
+The starter plane. Available at every small airstrip. Handy for exploring the map from above.
+
+### P-996 Lazer (Fighter Jet)
+- **Speed:** ★★★★★
+- **Weapons:** Twin cannons + missiles
+- **Spawn:** Fort Zancudo military base (steal it!)
+
+The fastest vehicle in the game. Stealing one from the military base is a rite of passage — come armed and leave fast.
+
+---
+
+## Flying Tips
+
+- **Landing:** Hold the descend button and gently tilt nose up just before touchdown
+- **Combat flying:** Use buildings as cover, pop up to fire missiles, dive back down
+- **Parachuting:** Always carry a parachute when flying — bail out if things go wrong
+- **VTOL craft:** Toggle hover mode with right d-pad for vertical landing
+`,
+    contentZh: `# GTA VI 飞行器指南 — 所有飞机、直升机与垂直起降
+
+## 直升机
+
+### Buzzard 武装直升机
+- **速度:** ★★★★☆
+- **武器:** 加特林 + 追踪导弹
+- **刷新:** 警察停机坪、军事基地、$180万购买
+
+工作主力。双加特林撕碎步兵和非装甲车辆。追踪导弹锁定任何目标。
+
+### 海上麻雀
+- **唯一带浮筒的直升机** — 可在水面降落
+- 收集海洋包裹的必备工具
+- 刷新位置：游艇码头、海滨停机坪
+
+## 飞机
+
+### P-996 Lazer（战斗机）
+- **速度:** ★★★★★ 游戏中最快的载具
+- **武器:** 双机炮 + 导弹
+- **刷新:** 桑库多堡军事基地（偷！）
+
+## 飞行技巧
+
+- **降落:** 按住下降键，触地前轻轻拉起机头
+- **空战:** 利用建筑物掩护，弹出开火发射导弹，再躲回去
+- **跳伞:** 飞行时永远带降落伞——随时准备弹射逃生
+- **垂直起降:** 按右方向键切换悬停模式实现垂直着陆
+`,
+  },
+  {
+    slug: "gta6-weapon-upgrades",
+    category: "weapons",
+    title: "GTA VI Weapon Upgrades & Attachments — Full Guide",
+    titleZh: "GTA VI 武器升级与配件 — 完整指南",
+    excerpt: "Every attachment, upgrade tier, and the best loadout for each playstyle.",
+    excerptZh: "全配件、升级等级与各玩法风格最佳配置。",
+    contentEn: `# GTA VI Weapon Upgrades & Attachments
+
+## Upgrade Tiers
+
+Each weapon has 4 upgrade tiers at Ammu-Nation:
+
+| Tier | Cost | Effect |
+|---|---|---|
+| Stock | Free | Baseline |
+| Tier 1 | $2,500 | +10% damage, -5% recoil |
+| Tier 2 | $8,000 | +20% damage, -10% recoil, +15% range |
+| Tier 3 | $25,000 | +35% damage, -20% recoil, +25% range |
+| Tier 4 | $65,000 | +50% damage, -30% recoil, +40% range |
+
+**Always upgrade to at least Tier 2** — it's cheap and doubles effectiveness.
+
+---
+
+## Attachments
+
+### Scopes
+- **Iron Sights:** Free, fastest ADS time
+- **Red Dot ($1,200):** Clean sight picture, best for ARs and SMGs
+- **ACOG 4x ($3,500):** Medium range, best for DMRs
+- **Sniper 8x ($8,000):** Long range only. Heavy sniper mandatory
+- **Thermal ($15,000):** See through smoke and foliage. Night ops essential
+
+### Muzzles
+- **Suppressor ($2,000):** Stay off radar during stealth missions
+- **Compensator ($1,800):** -15% vertical recoil, best for automatic weapons
+- **Heavy Barrel ($3,200):** +20% range, -5% fire rate
+
+### Underbarrel
+- **Grip ($1,500):** -10% recoil, best all-around
+- **Bipod ($2,800):** -50% recoil when prone, sniper/long-range
+- **Grenade Launcher ($12,000):** Attached 40mm launcher, limited ammo
+
+### Magazines
+- **Extended Mag ($3,000):** +50% capacity per mag
+- **Drum Mag ($8,000):** +200% capacity, slower reload
+- **Armor-Piercing ($5,000):** +30% damage vs vehicles and armor
+
+---
+
+## Best Loadouts by Playstyle
+
+### Stealth Player
+- **Primary:** Suppressed Pistol (Tier 3, Suppressor, Red Dot)
+- **Secondary:** Suppressed SMG (Tier 3, Suppressor, Extended Mag)
+- **Special:** Thermal Sniper (long-range scouting)
+
+### Run & Gun
+- **Primary:** Assault Rifle (Tier 4, Compensator, Grip, Extended Mag)
+- **Secondary:** Combat Shotgun (Tier 4, Drum Mag)
+- **Special:** RPG (vehicles/group clear)
+
+### Vehicle Combat
+- **Primary:** Compact SMG (drive-by capable)
+- **Secondary:** Sticky Bombs (throw while driving)
+- **Special:** Homing Launcher (anti-air)
+`,
+    contentZh: `# GTA VI 武器升级与配件 — 完整指南
+
+## 升级等级
+
+| 等级 | 费用 | 效果 |
+|---|---|---|
+| 原装 | 免费 | 基础 |
+| 1级 | $2,500 | +10%伤害, -5%后坐 |
+| 2级 | $8,000 | +20%伤害, -10%后坐, +15%射程 |
+| 3级 | $25,000 | +35%伤害, -20%后坐, +25%射程 |
+| 4级 | $65,000 | +50%伤害, -30%后坐, +40%射程 |
+
+**至少升到2级**——便宜且效果翻倍。
+
+## 各玩法最佳配置
+
+### 潜行玩家
+- **主武器:** 消音手枪（3级，消音器，红点）
+- **副武器:** 消音冲锋枪（3级，消音器，扩容弹匣）
+- **特殊:** 热成像狙击枪（远程侦察）
+
+### 正面突击
+- **主武器:** 突击步枪（4级，补偿器，握把，扩容弹匣）
+- **副武器:** 战斗霰弹枪（4级，弹鼓）
+- **特殊:** RPG（载具/群体清理）
+`,
+  },
+  {
+    slug: "gta6-vigilante-guide",
+    category: "side-quests",
+    title: "GTA VI Vigilante & Emergency Missions Guide",
+    titleZh: "GTA VI 义警与紧急任务指南",
+    excerpt: "Police, fire, and paramedic side missions — ranks, rewards, and tips.",
+    excerptZh: "警察、消防、医护支线任务 — 等级、奖励与通关技巧。",
+    contentEn: `# GTA VI Vigilante & Emergency Missions
+
+## Vigilante (Police)
+
+Enter any police cruiser and press the mission trigger button to start Vigilante mode.
+
+### How It Works
+1. Enter a police vehicle (cruiser, SWAT van, police bike, or helicopter)
+2. Activate Vigilante mode
+3. Chase and eliminate criminal targets shown on radar
+4. Each kill adds to the counter; reach the target for that level to advance
+5. Failing (dying, getting busted, losing the target) resets progress
+
+### Ranks & Rewards
+
+| Level | Criminals Eliminated | Rank | Reward |
+|---|---|---|---|
+| 1 | 5 | Rookie | +$500, +5% armor |
+|---|---|---|---|
+| 2 | 15 | Officer | +$2,000, +10% armor |
+| 3 | 30 | Detective | +$10,000, police bribes cheaper |
+| 4 | 50 | Lieutenant | +$30,000, free wanted level removal |
+| 5 | 100 | Captain | +$100,000, police uniforms unlocked |
+
+### Best Vehicle for Vigilante
+The **Police Maverick (helicopter)** makes Vigilante trivial. Targets can't escape a helicopter. Miniguns delete cars instantly. Complete all 5 levels in under 30 minutes with one.
+
+---
+
+## Paramedic Missions
+
+Steal an ambulance and activate Paramedic mode.
+
+### Levels & Rewards
+| Level | Patients Saved | Reward |
+|---|---|---|
+| 1 | 10 | +$1,000, infinite sprint |
+| 2 | 25 | +$5,000, +25% max health |
+| 3 | 50 | +$15,000, health regenerates to 100% |
+| 4 | 100 | +$50,000, paramedic outfit unlocked |
+
+### Tips
+- **Drive carefully.** Each collision hurts patients — too much damage kills them.
+- **Use sirens.** Traffic moves aside when sirens are on.
+- **Plan your route.** The minimap shows patient order — do a loop, not back-and-forth.
+- **Best location:** Vice Beach. Flat, wide roads, lots of tourists (= patients).
+
+---
+
+## Firefighter Missions
+
+Steal a fire truck and activate Firefighter mode.
+
+### Levels & Rewards
+| Level | Fires Extinguished | Reward |
+|---|---|---|
+| 1 | 5 | +$1,000, fireproof suit |
+| 2 | 15 | +$5,000, +25% explosion resistance |
+| 3 | 30 | +$20,000, fire truck spawns at safehouse |
+| 4 | 60 | +$60,000, complete immunity to fire damage |
+
+### Tips
+- **Use the water cannon.** Aim at the base of flames, not the top.
+- **Park close but not IN the fire.** You'll take damage.
+- **Best location:** Industrial area. Wide streets, short buildings.
+- **Drive by burning cars.** Spray as you pass to extinguish them faster.
+
+---
+
+## Taxi Driver
+
+Steal any taxi and activate taxi mode.
+
+| Fares | Reward |
+|---|---|
+| 50 total fares | All taxis free, taxi fast travel unlocked |
+| 100 total fares | Taxi company income ($2,000/week passive) |
+
+### Tips
+- VIPs (marked gold) pay 5x the normal fare
+- Take highway routes when possible — faster = higher tip
+- Avoid damage (reduces tip)
+`,
+    contentZh: `# GTA VI 义警与紧急任务指南
+
+## 义警任务（警察）
+
+进入任何警车并按任务触发按钮开始。
+
+### 等级与奖励
+
+| 等级 | 击杀 | 警衔 | 奖励 |
+|---|---|---|---|
+| 1 | 5 | 菜鸟 | +$500, +5%护甲 |
+| 2 | 15 | 警员 | +$2,000, +10%护甲 |
+| 3 | 30 | 探长 | +$10,000, 贿赂警察打折 |
+| 4 | 50 | 警督 | +$30,000, 免费消星 |
+| 5 | 100 | 警监 | +$100,000, 解锁警服 |
+
+**最佳载具:** 警用直升机让义警任务变得轻松。目标逃不过直升机。
+
+## 医护任务
+
+### 技巧
+- **小心驾驶。** 碰撞会伤害病人——伤太多会死。
+- **开警笛。** 交通会避让。
+- **最佳地点:** 罪恶海滩。道路平坦宽阔，游客多。
+
+## 消防任务
+
+| 等级 | 灭火数 | 奖励 |
+|---|---|---|
+| 4 | 60 | $60,000, 完全免疫火焰伤害 |
+
+**技巧:** 水炮瞄准火焰底部，不是顶部。停在火源旁边但不要在火里。
+
+## 出租车任务
+
+50次载客 → 全部出租车免费 + 快速传送解锁。VIP乘客（金色标记）5倍收费。
+`,
+  },
+  {
+    slug: "gta6-underwater-secrets",
+    category: "secrets",
+    title: "GTA VI Underwater Secrets — Shipwrecks, Treasure & Hidden Caves",
+    titleZh: "GTA VI 水下秘密 — 沉船、宝藏与隐藏洞穴",
+    excerpt: "Complete underwater exploration guide with all hidden locations.",
+    excerptZh: "水下探索全攻略——隐藏地点、沉船与宝藏完整收录。",
+    contentEn: `# GTA VI Underwater Secrets — Shipwrecks, Treasure & Hidden Caves
+
+## Essential Gear
+
+Before diving, get:
+- **Scuba gear** — Bought at any diving shop ($15,000) or found free at the marina dock
+- **Submersible** — Found at the research lab dock on the east coast
+- **Rebreather** — Extends dive time from 30s to 5min
+
+---
+
+## Shipwrecks
+
+### 1. The Galleon (50m depth, southwest coast)
+Spanish gold coin wreck from 1715 fleet. Contains:
+- **$50,000 in gold bars** (sell at pawn shop)
+- Unique cutlass melee weapon
+- Treasure map piece #3 of 8
+
+**Danger:** 3-4 sharks patrol this wreck. Bring a knife or speargun.
+
+### 2. Modern Freighter (120m, east of port)
+A cargo ship sunk in the 1980s. Contains:
+- **Briefcase with $25,000 cash**
+- 5 weapon crates (random weapons)
+- Drug packages ($10,000 each, 8 packages)
+- Secret submarine blueprint
+
+**Danger:** Extremely deep. Rebreather required. Current makes navigation tricky.
+
+### 3. Drug Runner Speedboat (15m, keys area)
+Shallow wreck, easy to access. Contains:
+- **$15,000 loose cash**
+- 2 SMGs
+- Stash note leading to another location
+
+---
+
+## Underwater Caves
+
+### Vice City Aquifer (North Beach coast)
+Massive underwater cave system. Entrance hidden behind kelp at 20m depth. Inside:
+- Air pockets throughout (no rebreather needed for most of it)
+- Bioluminescent chamber (screenshot spot!)
+- Alien hieroglyph secret on back wall
+- Collectible: "Ancient Skull" (1 of 10)
+
+### Lost Tunnels (Downtown waterfront)
+Smuggler tunnels from prohibition era. Now flooded. Access through a rusted grate (use sticky bomb to open).
+- **$100,000 in gold bars** in the main chamber
+- Secret mission trigger: notes about a heist on a yacht
+- Unique weapon: Antique Tommy Gun
+
+---
+
+## Hidden Treasure
+
+### Treasure Map Chain
+8 map pieces scattered across shipwrecks, caves, and NPC encounters. All 8 lead to:
+
+**The Final Treasure (underground bunker, swampland)**
+- **$500,000 cash**
+- Gold-plated revolver (unique skin)
+- Achievement: "Vice City Treasure Hunter"
+
+---
+
+## Ocean Wildlife Spawns
+
+| Creature | Depth | Danger |
+|---|---|---|
+| Jellyfish swarms | 5-20m | Moderate (sting damage) |
+| Reef sharks | 20-40m | Low |
+| Tiger sharks | 40-80m | High (aggro from 30m away) |
+| Great white | 60-120m | Very High (one-hit kill) |
+| Dolphins | 5-30m | None (friendly) |
+| Humpback whale | 50-100m | None (spectacular sight!) |
+
+---
+
+## Diving Tips
+- Listen for the metal detector ping when near treasure
+- The seafloor texture changes near wrecks — look for disturbed sand
+- Use photo mode underwater for amazing screenshots
+- Sharks are distracted by fish — throw fish chunks to create an opening
+`,
+    contentZh: `# GTA VI 水下秘密 — 沉船、宝藏与隐藏洞穴
+
+## 必备装备
+
+潜水前准备好：
+- **潜水装备** — 潜水店购买（$15,000）或码头免费捡
+- **潜水器** — 东海岸研究所码头
+- **循环呼吸器** — 将潜水时间从30秒延长到5分钟
+
+## 沉船
+
+### 1. 西班牙大帆船（50米深，西南海岸）
+1715年舰队沉船，含$50,000金条、独特弯刀武器、藏宝图碎片#3/8。
+**危险:** 3-4条鲨鱼巡逻。带刀或鱼枪。
+
+### 2. 现代货轮（120米，港口以东）
+1980年代沉没的货轮。含$25,000现金、武器箱、毒品包裹、潜艇蓝图。
+
+### 3. 毒贩快艇（15米，群岛区）
+浅水容易到达。含$15,000现金、2把冲锋枪。
+
+## 水下洞穴
+
+### 地下隧道（市中心水岸）
+禁酒令时代的走私隧道，现在被淹。用黏性炸弹炸开生锈铁栅进入。
+- **主室$100,000金条**
+- 秘密任务触发：游艇抢劫笔记
+- 独特武器：古董汤姆逊冲锋枪
+
+## 藏宝图链
+8张碎片 → **最终宝藏：$500,000现金**
+解锁成就："罪城寻宝猎人"
+
+## 潜水技巧
+- 靠近宝藏时听金属探测器的提示音
+- 残骸附近的海底纹理会变化——找被翻动的沙子
+- 鲨鱼被鱼分散注意力——扔鱼肉创造窗口
+`,
+  },
+  {
+    slug: "gta6-passive-income",
+    category: "money-guide",
+    title: "GTA VI Passive Income — Properties, Businesses & Weekly Earnings",
+    titleZh: "GTA VI 被动收入 — 资产、生意与每周收益",
+    excerpt: "Set up income streams that pay you while you play other missions.",
+    excerptZh: "建立收入来源，让你在做其他任务时也能赚钱。",
+    contentEn: `# GTA VI Passive Income Guide
+
+## What Is Passive Income?
+
+Passive income is money that accumulates in your account while you're doing ANYTHING in the game — missions, freeroam, even just driving around. You set it up once, and it pays forever.
+
+---
+
+## Property Income
+
+### Safehouses
+Every safehouse generates a small weekly fee. But owning specific properties generates INCOME:
+
+| Property | Cost | Weekly Income | Break-Even |
+|---|---|---|---|
+| Vice City Apartment | $80,000 | $500 | 160 weeks |
+| Beachfront Condo | $250,000 | $2,000 | 125 weeks |
+| Starfish Island Mansion | $2,500,000 | $15,000 | 167 weeks |
+| Farmhouse (Rural) | $120,000 | $800 | 150 weeks |
+| Penthouse (Downtown) | $1,800,000 | $10,000 | 180 weeks |
+
+### Businesses You Can Buy
+
+| Business | Cost | Weekly Income | Notes |
+|---|---|---|---|
+| Car Dealership | $500,000 | $5,000-$15,000 | Varies with stock sold |
+| Nightclub | $1,200,000 | $8,000-$25,000 | Higher with popularity missions |
+| Taxi Company | $200,000 | $2,000 | After 100 taxi fares |
+| Dock/Import-Export | $800,000 | $10,000-$30,000 | Requires active delivery missions |
+| Film Studio | $1,500,000 | $12,000-$40,000 | Increases with celebrity contacts |
+| Drug Warehouse | $600,000 | $5,000-$20,000 | Risk of police raids |
+| Chop Shop | $350,000 | $3,000-$8,000 | Steady, low-risk |
+
+---
+
+## Maximizing Business Income
+
+### Nightclub Strategy
+1. Buy the nightclub ($1,200,000)
+2. Complete popularity missions weekly
+3. Book popular DJs ($10,000 fee — worth it)
+4. At max popularity: **$25,000/week**
+5. Break-even with max popularity: 48 weeks
+
+### Import/Export Strategy
+1. Buy the dock warehouse ($800,000)
+2. Assign 3 staff (free initial hiring)
+3. Source vehicles every session
+4. Deliver when warehouse is full (best profit margin)
+5. Passive: $10,000/week minimum. Active selling can push to $30,000+
+
+### Film Studio Growth
+1. Buy the studio ($1,500,000)
+2. Complete 5 celebrity missions to attract stars
+3. Each celebrity adds $5,000/week
+4. Max at 4 celebrities: $40,000/week total
+
+---
+
+## Rental Properties
+
+Buy cheap houses/units and collect rent:
+
+| Tier | Units | Weekly Income |
+|---|---|---|
+| Small landlord (5 units) | $750,000 buy-in | $5,000/week |
+| Medium landlord (10 units) | $1,200,000 buy-in | $12,000/week |
+| Real estate mogul (25 units) | $3,500,000 buy-in | $37,500/week |
+
+---
+
+## Optimal Income Path
+
+### Early Game ($0-$500K)
+- Taxi Company ($200K) + side missions → $2K/week
+- Farmhouse ($120K) → $800/week
+- **Total passive: ~$3K/week**
+
+### Mid Game ($500K-$2M)
+- Add Nightclub ($1.2M) → $25K/week at max
+- Add Dealership ($500K) → $10K/week avg
+- **Total passive: ~$38K/week**
+
+### Late Game ($2M-$10M)
+- Add Film Studio ($1.5M) → $40K/week
+- Add Import/Export dock ($800K) → $30K/week
+- Add Real Estate ($3.5M) → $37.5K/week
+- **Total passive: ~$145K/week**
+
+At max income, you're earning **$580K per in-game month**, completely passive.
+`,
+    contentZh: `# GTA VI 被动收入指南
+
+## 什么是被动收入？
+
+被动收入是你在游戏里做任何事都会积累的钱——做任务、自由漫游，甚至开车兜风。设置一次就永远收钱。
+
+## 可购买的生意
+
+| 生意 | 成本 | 每周收入 | 备注 |
+|---|---|---|---|
+| 车行 | $500,000 | $5,000-$15,000 | 随售出库存浮动 |
+| 夜店 | $1,200,000 | $8,000-$25,000 | 人气任务提升收入 |
+| 出租车公司 | $200,000 | $2,000 | 完成100次载客后 |
+| 进出口码头 | $800,000 | $10,000-$30,000 | 需主动运货任务 |
+| 电影制片厂 | $1,500,000 | $12,000-$40,000 | 名人联系越多越高 |
+| 毒品仓库 | $600,000 | $5,000-$20,000 | 有警察突击风险 |
+| 拆车厂 | $350,000 | $3,000-$8,000 | 稳定低风险 |
+
+## 最优收入路径
+
+### 早期（$0-$50万）
+- 出租车公司 + 支线 + 农舍住宅
+- **总被动收入：~$3K/周**
+
+### 中期（$50万-$200万）
+- 加夜店 + 车行
+- **总被动收入：~$38K/周**
+
+### 后期（$200万-$1000万）
+- 加电影制片厂 + 进出口 + 房地产
+- **总被动收入：~$145K/周**
+
+满配状态下，你每月能赚 **$58万**，完全被动。
+`,
+  },
 ];

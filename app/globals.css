@@ -1,14 +1,14 @@
 @import "tailwindcss";
 
 @theme {
-  --color-surface: #0a0a0b;
-  --color-surface-alt: #141416;
-  --color-surface-raised: #1c1c1f;
-  --color-text-primary: #e4e4e7;
-  --color-text-muted: #71717a;
+  --color-surface: #ffffff;
+  --color-surface-alt: #f9fafb;
+  --color-surface-raised: #f3f4f6;
+  --color-text-primary: #111827;
+  --color-text-muted: #6b7280;
   --color-accent: #f59e0b;
   --color-accent-hover: #d97706;
-  --color-border: #27272a;
+  --color-border: #e5e7eb;
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, monospace;
 }
@@ -31,12 +31,12 @@ body {
 
 /* Links */
 a {
-  color: var(--color-accent);
+  color: var(--color-accent-hover);
   text-decoration: none;
   transition: color 150ms ease-out;
 }
 a:hover {
-  color: var(--color-accent-hover);
+  color: var(--color-accent);
 }
 
 /* Prose for article content */
@@ -50,6 +50,8 @@ a:hover {
   margin-top: 48px;
   margin-bottom: 16px;
   color: var(--color-text-primary);
+  border-bottom: 2px solid var(--color-border);
+  padding-bottom: 8px;
 }
 .prose h3 {
   font-size: 1.25rem;
@@ -71,7 +73,7 @@ a:hover {
   margin-bottom: 8px;
 }
 .prose strong {
-  color: var(--color-accent);
+  color: #b45309;
   font-weight: 600;
 }
 .prose code {
@@ -80,14 +82,15 @@ a:hover {
   padding: 2px 6px;
   border-radius: 4px;
   font-size: 0.875rem;
+  color: #1f2937;
 }
 .prose pre {
-  background: var(--color-surface-raised);
+  background: #1e1e1e;
   padding: 16px;
   border-radius: 8px;
   overflow-x: auto;
   margin-bottom: 16px;
-  border: 1px solid var(--color-border);
+  color: #e4e4e7;
 }
 .prose table {
   width: 100%;
@@ -102,7 +105,12 @@ a:hover {
 }
 .prose th {
   font-weight: 600;
-  color: var(--color-accent);
+  color: #b45309;
+}
+.prose hr {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 32px 0;
 }
 
 /* Scrollbar */
@@ -110,10 +118,10 @@ a:hover {
   width: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: var(--color-surface);
+  background: var(--color-surface-alt);
 }
 ::-webkit-scrollbar-thumb {
-  background: var(--color-border);
+  background: #d1d5db;
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {

@@ -76,7 +76,7 @@ export default function HomeContent() {
             href="/gta6"
             style={{
               background: "var(--color-accent)",
-              color: "#000",
+              color: "#1f2937",
               fontWeight: 600,
               padding: "10px 24px",
               borderRadius: 8,
@@ -157,7 +157,7 @@ export default function HomeContent() {
                   color: "var(--color-text-muted)",
                 }}
               >
-                <span>7 {t.guidesLabel}</span>
+                <span>25 {t.guidesLabel}</span>
               </div>
             </div>
           </Link>
